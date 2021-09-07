@@ -26,22 +26,4 @@ Face Recognition Based Attendance Management System based on Python
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
-### Screenshots
-
-<!-- ### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png"> -->
-
-<!-- ### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png"> -->
-<!-- 
-### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png"> -->
-<!-- 
-### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png"> -->
-
-
-### How it works? See:)
-
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
 
