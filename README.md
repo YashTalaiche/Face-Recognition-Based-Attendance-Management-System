@@ -26,4 +26,18 @@ Face Recognition Based Attendance Management System based on Python
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
+---main window---
 
+<img src="https://github.com/YashTalaiche/Face-Recognition-Based-Attendance-Management-System/blob/main/Demo_image/main.png"> 
+
+Automatic Attendance
+
+<img src="https://github.com/YashTalaiche/Face-Recognition-Based-Attendance-Management-System/blob/main/Demo_image/automatic.png">
+ 
+Manually Attendance 
+
+<img src="https://github.com/YashTalaiche/Face-Recognition-Based-Attendance-Management-System/blob/main/Demo_image/manually.png">
+
+Database 
+
+<img src="https://github.com/YashTalaiche/Face-Recognition-Based-Attendance-Management-System/blob/main/Demo_image/database.png">
