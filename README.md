@@ -1,6 +1,6 @@
 # Face-Recognition-Based-Attendance-Management-System
 Face Recognition Based Attendance Management System based on Python
-##  Attendance Management system using Face👦🏻👧 Recognition
+##  Attendance Management system using Face Recognition
  
 
 ### Code Requirements
